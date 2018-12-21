@@ -5,6 +5,6 @@
 **스크린샷**
 ---
 <div>
-<img width="200" src="https://user-images.githubusercontent.com/45849534/50327618-36100000-0533-11e9-8462-e6b9d24defd1.png">
-<img width="200" src="https://user-images.githubusercontent.com/45849534/50327619-36100000-0533-11e9-83fd-cf53cba4f78a.png">
+<img width="200" src="https://github.com/easywonn/Hello/blob/master/6DoF%20Pose%20%EC%8B%9C%EA%B0%81%ED%99%94/Data/Stream_181205_152732_screen.png">
+<img width="200" src="https://github.com/easywonn/Hello/blob/master/6DoF%20Pose%20%EC%8B%9C%EA%B0%81%ED%99%94/Data/Stream_181205_152802_screen.png">
 </div>

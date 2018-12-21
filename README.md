@@ -4,6 +4,7 @@
                
 **스크린샷**
 ---
-![repository 설명. 캡쳐1_p](./image/repository 설명. 캡쳐1_p.jpeg)
-
-![repository 설명. 캡쳐2_p](./image/repository 설명. 캡쳐2_p.jpeg)
+<div>
+<img width="200" src="https://user-images.githubusercontent.com/45849534/50327618-36100000-0533-11e9-8462-e6b9d24defd1.png">
+<img width="200" src="https://user-images.githubusercontent.com/45849534/50327619-36100000-0533-11e9-83fd-cf53cba4f78a.png">
+</div>
